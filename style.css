@@ -36,10 +36,12 @@
   height: 20px;
 }
 
+/* ARTICLE SEARCH BAR */
 .main-navbar li:last-child {
   background: rgb(77, 73, 73);
 }
 
+/* BUTTON TO SHOW MORE NAV LINKS */
 .main-navbar > ul:nth-child(1) > li:nth-child(10) {
   background: rgb(116, 121, 121);
 }
